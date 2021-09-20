@@ -1,5 +1,6 @@
 ..
     Make user to apply any changes to this file to README_RAW.rst as well!
+    Queremos contribuir en proyectos
 
 .. image:: https://github.com/python-telegram-bot/logos/blob/master/logo-text/png/ptb-logo-text_768.png?raw=true
    :align: center
